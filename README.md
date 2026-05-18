@@ -16,3 +16,16 @@ Each exercise is submitted on its own branch.
 | week6-javascript-ex-03 | Array Basics |
 | week6-javascript-ex-04 | Conditional Logic |
 | week6-javascript-ex-05 | Loops |
+
+
+
+
+
+
+
+
+
+| week6-javascript-ex-02 | Number Operations and Type Conversion |
+| week6-javascript-ex-03 | Array Basics |
+| week6-javascript-ex-04 | Conditional Logic |
+| week6-javascript-ex-05 | Loops |
