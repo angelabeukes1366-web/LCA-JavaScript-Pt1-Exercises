@@ -1,7 +1,11 @@
 # LCA-JavaScript-Pt1-Exercises
+
 **Trainee:** Angela Beukes
-**Programme:** YouthCode Off-Site &#x2014; Cohort 2, 2026
-**Course:** Course 1 &#x2014; Frontend Web Development
+
+**Programme:** YouthCode Off-Site &; Cohort 2, 2026
+
+**Course:** Course 1; Frontend Web Development
+
 **Topic:** JavaScript Pt 1 Exercises
 
 This repository contains my JavaScript Pt 1 exercise
